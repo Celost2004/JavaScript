@@ -63,3 +63,19 @@ if (...) {
 else {
 
 }
+
+## Switch
+
+switch (cor) {
+
+    case "branco" :
+        mycar = "branco";
+        break;
+    case "red" :
+        mycar = "vemelho";
+        break;
+    
+    default :
+        console.log("Não temos a cor desejada");
+
+}
